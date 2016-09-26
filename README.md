@@ -8,4 +8,3 @@ individual	merits.
 • Use	of	JavaScript
 • Use	and	customization	of	a	framework
 • Use	of	a	team	repository
-Project	goal:	You	and	your	team	will	build	a	website	that	meets	the	requirements.
