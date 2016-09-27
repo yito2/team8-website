@@ -23,3 +23,8 @@ a {
 a:hover { 
 	color: blue;
 }
+
+.contact {
+	border: 1px black solid;
+	padding: 10px;
+}

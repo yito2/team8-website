@@ -23,7 +23,13 @@ what are the sources of the content?
 
 <p> Here's who each team member is and what they did...</p>
 
-Team Members: Jie Deng, Yukako Ito, Rebecca Van Dyke, Carolyn Zelicof, Annie Zhang
+<h1>Team Members</h1>
+
+<h3>Jie Deng</h3>
+<h3>Yukako Ito</h3>
+<h3>Rebecca Van Dyke</h3>
+<h3>Carolyn Zelicof</h3>
+<h3>Annie Zhang</h3>
 
 
 <p> Here's the technology that was used in this project...</p>
