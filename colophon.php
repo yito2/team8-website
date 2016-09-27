@@ -22,9 +22,19 @@ what are the sources of the content?
 <div class="nav-bar" ><?php include("nav.php");?></div>
 
 <p> Here's who each team member is and what they did...</p>
-<p> Here's the technology that was used in this project...</p>
-<p> Here's the source(s) of the content...</p>
 
+Team Members: Jie Deng, Yukako Ito, Rebecca Van Dyke, Carolyn Zelicof, Annie Zhang
+
+
+<p> Here's the technology that was used in this project...</p>
+	<ul>
+		<li>SOFTWARE - Source</li>
+		<li>SOFTWARE - Source</li>
+		<li>SOFTWARE - Source</li>
+		<li>SOFTWARE - Source</li>
+	</ul>
+
+<p>This content was taken from.... (put in source)</p>
 
 </body>
 
