@@ -1,28 +1,21 @@
 <!--
-Team infomation
+Team information
 who	did	what
 what technology	was	used?
 what are the sources of the content?
 -->
 
-<p> Here's who each team member is and what they did...</p>
+Here's who each team member is and what they did...
 
-<h1>Team Members</h1>
+Team Members
 
-<div class="contact"><h3>Jie Deng</h3></div>
-<div class="contact"><h3>Yukako Ito</h3></div>
-<div class="contact"><h3>Rebecca Van Dyke</h3></div>
-<div class="contact"><h3>Carolyn Zelicof</h3></div>
-<div class="contact"><h3>Annie Zhang</h3></div>
+Jie Deng - CSS Artist
+Yukako Ito - Architect
+Rebecca Van Dyke - JavaScript Coder
+Carolyn Zelicof - Content Master and Designer
+Annie Zhang - Framework Wrangler
 
 
-<p> Here's the technology that was used in this project...</p>
-	<ul>
-		<li>SOFTWARE - Source</li>
-		<li>SOFTWARE - Source</li>
-		<li>SOFTWARE - Source</li>
-		<li>SOFTWARE - Source</li>
-	</ul>
+Here's the technology that was used in this project...
 
-<p>This content was taken from.... (put in source)</p>
-
+This content was taken from.... (put in source)
