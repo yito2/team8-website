@@ -14,7 +14,7 @@
 
 <!--Probably use a php include for the hero/header-->
 
-<div class="nav-bar" ><?php include("nav.php");?></div>
+<div class="nav-bar"><?php include("nav.php");?></div>
 
 <p>HERE'S THE MAIN PAGE</p>
 
@@ -22,6 +22,6 @@
 
 </body>
 
-<!--Probably use a php include for the footer-->
+<div class="footer"><?php include("footer.php");?></div>
 
 </html>

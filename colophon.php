@@ -44,6 +44,6 @@ what are the sources of the content?
 
 </body>
 
-<!--Probably use a php include for the footer-->
+<div class="footer"><?php include("footer.php");?></div>
 
 </html>
