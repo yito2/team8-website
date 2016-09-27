@@ -25,11 +25,11 @@ what are the sources of the content?
 
 <h1>Team Members</h1>
 
-<h3>Jie Deng</h3>
-<h3>Yukako Ito</h3>
-<h3>Rebecca Van Dyke</h3>
-<h3>Carolyn Zelicof</h3>
-<h3>Annie Zhang</h3>
+<div class="contact"><h3>Jie Deng</h3></div>
+<div class="contact"><h3>Yukako Ito</h3></div>
+<div class="contact"><h3>Rebecca Van Dyke</h3></div>
+<div class="contact"><h3>Carolyn Zelicof</h3></div>
+<div class="contact"><h3>Annie Zhang</h3></div>
 
 
 <p> Here's the technology that was used in this project...</p>
