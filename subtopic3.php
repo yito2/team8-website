@@ -8,6 +8,7 @@
 	<meta charset="utf-8">
 	<title>Team 8 Website</title>
 	<link rel="stylesheet" href="css/styles.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
