@@ -1,4 +1,5 @@
 <!-- each	with	its	own	subtopic	(related	to	the	overall	topic)2-->
+<!-- Coaching Staff-->
 
 <!doctype html>
 <?php $thisPage="page3"; ?>
@@ -13,6 +14,10 @@
 
 <body>
 <div class="container">
+
+<!--Probably use a php include for the hero/header-->
+
+<div class="nav-bar" ><?php include("nav.php");?></div>
 
 		<article>
 			<h2>Coaching Staff</h2>
@@ -46,14 +51,7 @@
 				</tr>
 			</table>
 		</article>
-
-<!--Probably use a php include for the hero/header-->
-
-<div class="nav-bar" ><?php include("nav.php");?></div>
-
-<p>HERE'S A SUBTOPIC PAGE</p>
-
-
+</div>
 </body>
 
 <div class="footer"><?php include("footer.php");?></div>

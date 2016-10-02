@@ -1,4 +1,5 @@
 <!-- each	with	its	own	subtopic	(related	to	the	overall	topic)2-->
+<!-- Roster-->
 
 <!doctype html>
 <?php $thisPage="page1"; ?>
@@ -12,9 +13,13 @@
 </head>
 
 <body>
-
 <div class="container">
-		<article>
+
+	<!--Probably use a php include for the hero/header-->
+
+	<div class="nav-bar"><?php include("nav.php");?></div>
+
+	<article>
 			<h2>Roster</h2>
 			<table class="data-table">
 					<caption class="tcaption"><strong><em>2016 New York Rangers Roster</em></strong></caption>
@@ -340,14 +345,7 @@
 
 				</table>		
 		</article>
-
-<!--Probably use a php include for the hero/header-->
-
-<div class="nav-bar"><?php include("nav.php");?></div>
-
-<p>HERE'S A SUBTOPIC PAGE</p>
-
-
+		</div>
 </body>
 
 <div class="footer"><?php include("footer.php");?></div>
