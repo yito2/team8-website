@@ -17,7 +17,7 @@
 
 	<!--Probably use a php include for the hero/header-->
 
-	<div class="nav-bar"><?php include("nav.php");?></div>
+	<?php include("inc/nav.inc");?>
 
 	<article>
 			<h2>Roster</h2>
@@ -348,6 +348,6 @@
 		</div>
 </body>
 
-<div class="footer"><?php include("footer.php");?></div>
+<?php include("inc/footer.inc");?>
 
 </html>

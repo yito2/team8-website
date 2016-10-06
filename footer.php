@@ -1,1 +1,0 @@
-Just footer things
