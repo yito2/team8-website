@@ -57,4 +57,17 @@
 	a:hover { 
 		color: blue;
 	}
+
+	.footer{
+		 position: absolute;
+		  bottom: 0;
+		  width: 100%;
+		  /* Set the fixed height of the footer here */
+		  height: 60px;
+		  background-color: ##0161AB;
+	}
+
+	.footer p{
+		color: #FFFFFF;
+	}
 }
