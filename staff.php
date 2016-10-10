@@ -46,7 +46,9 @@
 				</tr>
 			</table>
 		</article>
-</div>
+		
+</div> <!-- container -->
+</body>
 
 <?php include("inc/footer.inc");?>
 

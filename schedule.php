@@ -97,8 +97,7 @@
 				</tr>
 			</table>		
 	</article>
-
-	</div>
+	</div> <!-- container -->
 
 </body>
 

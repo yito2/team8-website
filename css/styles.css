@@ -1,9 +1,21 @@
+html{
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	margin-bottom: 50px;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 30px;
   background-color: #0161AB;
 }
 
