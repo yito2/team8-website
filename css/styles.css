@@ -17,6 +17,10 @@ body {
 	background-color: #f1f1f1;
 }
 
+article p{
+	background-color: rgba(255,255,255,0.7);
+}
+
 h2  {
 	margin: 0;
 	color: red;
