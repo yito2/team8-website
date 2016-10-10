@@ -1,73 +1,12 @@
-@media (min-width: 768px) {
-	.nav-bar li {
-		display: inline-block;
-	}
-
-	.nav-bar a { 
-		display: block; 
-		padding: 10px;
-		/*border: ;*/
-	}
-	.nav-bar a:hover { 
-		background-color: gray; 
-	}
-
-	.nav-bar .active {
-		background-color: gray;
-	}
-
-	a { 
-		color: black;
-		text-decoration: none;
-	}
-
-	a:hover { 
-		color: blue;
-	}
-
-	.contact {
-		border: 1px black solid;
-		padding: 10px;
-	}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #0161AB;
 }
 
-@media (max-width: 768px) {
-	.nav-bar li {
-		display: inline-block;
-	}
-
-	.nav-bar a { 
-		display: block; 
-		padding: 5px;
-		font-size: 13px;
-	}
-	.nav-bar a:hover { 
-		background-color: gray; 
-	}
-
-	.nav-bar .active {
-		background-color: gray;
-	}
-
-	a { 
-		color: black;
-		text-decoration: none;
-	}
-
-	a:hover { 
-		color: blue;
-	}
-
-	.footer{
-		 position: absolute;
-		  bottom: 0;
-		  width: 100%;
-		  /* Set the fixed height of the footer here */
-		  height: 60px;
-		  background-color: ##0161AB;
-	}
-
-	.footer p{
+.footer p{
 		color: #FFFFFF;
 	}
-}
