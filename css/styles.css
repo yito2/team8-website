@@ -6,7 +6,8 @@ html{
 body {
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
-	background-position: top center;
+	background-position: center;
+	background-attachment: fixed;
 	margin-bottom: 50px;
 	font-family: 'PT Sans', sans-serif;
 	font-size: 17px;
