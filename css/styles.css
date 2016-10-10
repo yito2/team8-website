@@ -1,73 +1,67 @@
-@media (min-width: 768px) {
-	.nav-bar li {
-		display: inline-block;
-	}
-
-	.nav-bar a { 
-		display: block; 
-		padding: 10px;
-		/*border: ;*/
-	}
-	.nav-bar a:hover { 
-		background-color: gray; 
-	}
-
-	.nav-bar .active {
-		background-color: gray;
-	}
-
-	a { 
-		color: black;
-		text-decoration: none;
-	}
-
-	a:hover { 
-		color: blue;
-	}
-
-	.contact {
-		border: 1px black solid;
-		padding: 10px;
-	}
+html{
+	position: relative;
+	min-height: 100%;
 }
 
-@media (max-width: 768px) {
-	.nav-bar li {
-		display: inline-block;
-	}
+body {
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	margin-bottom: 50px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 17px;
+	min-width: 640px;
+	margin: 0;
+	border: 0;
+	background-color: #f1f1f1;
+}
 
-	.nav-bar a { 
-		display: block; 
-		padding: 5px;
-		font-size: 13px;
-	}
-	.nav-bar a:hover { 
-		background-color: gray; 
-	}
+h2  {
+	margin: 0;
+	color: red;
+	font-weight: normal;
+	font-size: 30px;
+	border-bottom: 2px solid #0161AB;
+  	text-align: center;
+}
 
-	.nav-bar .active {
-		background-color: gray;
-	}
+.col-md-8 {
+    left: 17%;
+	text-align: left;
+	padding-top: 16px;
+}
 
-	a { 
-		color: black;
-		text-decoration: none;
-	}
+.table-hover {
+	margin-bottom: 15px;
+	box-shadow: 2px 2px 2px #cccccc;	
+	-webkit-box-shadow: 2px 2px 2px #cccccc;
+	border: #cccccc 1px solid;
+	width: 100%;}
 
-	a:hover { 
-		color: blue;
-	}
+.table-hover th{
+	font-size: 18px;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
 
-	.footer{
-		 position: absolute;
-		  bottom: 0;
-		  width: 100%;
-		  /* Set the fixed height of the footer here */
-		  height: 60px;
-		  background-color: ##0161AB;
-	}
+.table-hover td{ 
+	font-size: 16px;
+	line-height: 18px;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
 
-	.footer p{
-		color: #FFFFFF;
-	}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #0161AB;
+}
+
+.footer p{
+	color: #f1f1f1;
 }

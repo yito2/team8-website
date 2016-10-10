@@ -8,18 +8,14 @@
 <head>
 	<meta charset="utf-8">
 	<title>Schedule</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-<div class="container">
+	<?php include("inc/top.inc");?>
 
 	<!--Probably use a php include for the hero/header-->
 
 	<?php include("inc/nav.inc");?>
 	<article>
 		<h2>October Schedule</h2>
-		<table class="data-table">
+		<table class="table-bordered table-hover">
 				<caption class="tcaption"><strong><em>New York Rangers October Schedule</em></strong></caption>
 				<tr class="trow">
 					<th class="theader">Date</th>
@@ -101,8 +97,7 @@
 				</tr>
 			</table>		
 	</article>
-
-	</div>
+	</div> <!-- container -->
 
 </body>
 

@@ -8,12 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Coaching Staff</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-</head>
-
-<body>
-<div class="container">
+	<?php include("inc/top.inc");?>
 
 <!--Probably use a php include for the hero/header-->
 
@@ -22,7 +17,7 @@
 		<article>
 			<h2>Coaching Staff</h2>
 				
-			<table class="data-table">
+			<table class="table-bordered table-hover">
 				<caption class="tcaption"><strong><em>New York Rangers Coaching Staff</em></strong></caption>
 				<tr class="trow">
 					<th class="theader">Name</th>
@@ -51,7 +46,9 @@
 				</tr>
 			</table>
 		</article>
-</div>
+		
+</div> <!-- container -->
+</body>
 
 <?php include("inc/footer.inc");?>
 
