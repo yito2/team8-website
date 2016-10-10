@@ -15,7 +15,7 @@
 	<?php include("inc/nav.inc");?>
 	<article>
 		<h2>October Schedule</h2>
-		<table class="table-bordered table-hover">
+		<table class="table-bordered">
 				<caption class="tcaption"><strong><em>New York Rangers October Schedule</em></strong></caption>
 				<tr class="trow">
 					<th class="theader">Date</th>

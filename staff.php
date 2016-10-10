@@ -17,7 +17,7 @@
 		<article>
 			<h2>Coaching Staff</h2>
 				
-			<table class="table-bordered table-hover">
+			<table class="table-bordered">
 				<caption class="tcaption"><strong><em>New York Rangers Coaching Staff</em></strong></caption>
 				<tr class="trow">
 					<th class="theader">Name</th>

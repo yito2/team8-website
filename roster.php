@@ -16,7 +16,7 @@
 
 	<article>
 			<h2>Roster</h2>
-			<table class="table-bordered table-hover">
+			<table class="table-bordered">
 					<caption class="tcaption"><strong><em>2016 New York Rangers Roster</em></strong></caption>
 					<tr class="trow">
 						<th class="theader">Number</th>
