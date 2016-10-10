@@ -11,7 +11,7 @@
 <body>
 <div class="container">
 
-		<?php include "slideshow.php" ; ?>
+		<?php include "inc/slideshow.php" ; ?>
 
 
 </div><!--.container-->
