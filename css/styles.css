@@ -10,11 +10,10 @@ body {
 	margin-bottom: 50px;
 	font-family: 'PT Sans', sans-serif;
 	font-size: 17px;
-	min-width: 1000px;
+	min-width: 640px;
 	margin: 0;
 	border: 0;
 	background-color: #f1f1f1;
-	background-repeat: repeat;
 }
 
 h2  {
