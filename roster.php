@@ -8,12 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Roster</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-</head>
-
-<body>
-<div class="container">
+	<?php include("inc/top.inc");?>
 
 	<!--Probably use a php include for the hero/header-->
 
@@ -21,7 +16,7 @@
 
 	<article>
 			<h2>Roster</h2>
-			<table class="data-table">
+			<table class="table-bordered table-hover">
 					<caption class="tcaption"><strong><em>2016 New York Rangers Roster</em></strong></caption>
 					<tr class="trow">
 						<th class="theader">Number</th>
