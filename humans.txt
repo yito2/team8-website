@@ -1,12 +1,3 @@
-<!--
-Team information
-who	did	what
-what technology	was	used?
-what are the sources of the content?
--->
-
-Here's who each team member is and what they did...
-
 Team Members
 
 Jie Deng - CSS Artist
@@ -17,5 +8,5 @@ Annie Zhang - Framework Wrangler
 
 
 Here's the technology that was used in this project...
-
-This content was taken from.... (put in source)
+Bootstrap
+W3C Tutorials on Slideshows

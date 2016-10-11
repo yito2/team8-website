@@ -1,7 +1,7 @@
-<nav class="navbar">
+<nav class="navbar navbar-left">
 <div class="container-fluid">
 	<div class="navbar-header">
-		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		<button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 		    &#9776;
 		</button>
 	</div> <!--navbar heder-->
