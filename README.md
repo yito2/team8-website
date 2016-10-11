@@ -1,4 +1,6 @@
 # team8-website
+http://urcsc170.org/azhang/project1/
+
 CSC 174 - Team Project #1
 
 To team: most of the set-up is done, we just need to decide on a framework and make the site mobile-friendly.
