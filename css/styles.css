@@ -30,11 +30,6 @@ h2  {
   	text-align: center;
 }
 
-.col-md-8 {
-    left: 17%;
-	text-align: left;
-	padding-top: 16px;
-}
 
 .table-bordered {
 	margin-bottom: 15px;
@@ -47,7 +42,7 @@ h2  {
 	font-size: 18px;
 	text-align: center;
 	padding-top: 8px;
-	padding-bottom: 8px;
+	padding-bottom: 8px; 
 }
 
 .table-bordered td{ 
