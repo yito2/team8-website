@@ -10,3 +10,4 @@ Annie Zhang - Framework Wrangler
 Here's the technology that was used in this project...
 Bootstrap
 W3C Tutorials on Slideshows
+Github
