@@ -54,7 +54,7 @@
 
 		<article>
 			<h2>New York Rangers</h2>
-			<p class="col-md-8">The New York Rangers are an American professional ice hockey team based in New York City that competes in the National Hockey League (NHL). They are a member club of the league's Metropolitan Division in the Eastern Conference.</p>			
+			<p class="col-xs-12">The New York Rangers are an American professional ice hockey team based in New York City that competes in the National Hockey League (NHL). They are a member club of the league's Metropolitan Division in the Eastern Conference.</p>			
 		</article>
 	</div> <!-- container -->
 </body>
