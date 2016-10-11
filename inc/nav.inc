@@ -12,6 +12,7 @@
 			<li <?php if($thisPage=="page1") { echo 'class="active"'; } ?>><a href="roster.php">Roster</a></li>
 			<li <?php if($thisPage=="page2") { echo 'class="active"'; } ?>><a href="schedule.php">Schedule</a></li>
 			<li <?php if($thisPage=="page3") { echo 'class="active"'; } ?>><a href="staff.php">Coaching Staff</a></li>
+			<li <?php if($thisPage=="page4") { echo 'class="active"'; } ?>><a href="colophon.php">Colophon</a></li>
 		</ul>
 	</div> <!-- nav collapse -->
 </div> <!-- container fluid -->
