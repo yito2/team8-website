@@ -32,7 +32,7 @@
 				<tr class="trow">
 					<td class="tdescription">Annie Zhang</td>
 					<td class="tdescription">Framework Wrangler</td>
-					<td class="tdescription"><p></p></td>
+					<td class="tdescription"><p>Implemented the framework Bootstrap to give the webpage a general structure. Used Bootstrap to implement a hamburger menu in mobile view or smaller windows.</p></td>
 					<td class="tdescription">2017</td>
 				</tr>
 				<tr class="trow">
