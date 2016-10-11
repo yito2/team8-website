@@ -11,3 +11,6 @@ Here's the technology that was used in this project...
 Bootstrap
 W3C Tutorials on Slideshows
 Github
+
+Information taken from:
+https://www.nhl.com/rangers/
