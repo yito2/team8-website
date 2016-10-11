@@ -16,7 +16,7 @@
 	<?php include("inc/nav.inc");?>
 
 	<div class="slideshow-container">
-	<div class="jumbotron">
+	<div class="slideshow">
 	<div class ="mySlides fade">
 		<figure>
 			<img src="images/WelcometoNYR.jpg" width="100%" />
