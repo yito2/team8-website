@@ -50,7 +50,7 @@
 				<tr class="trow">
 					<td class="tdescription">Jie Deng</td>
 					<td class="tdescription">CSS Artist</td>
-					<td class="tdescription"><p></p></td>
+					<td class="tdescription"><p>Customized the CSS file that overrides the bootstrap framework to meet our theme</p></td>
 					<td class="tdescription">2017</td>
 				</tr>
 			</table>		
