@@ -1,4 +1,4 @@
-<nav class="navbar navbar-left">
+<nav class="navbar">
 <div class="container-fluid">
 	<div class="navbar-header">
 		<button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
