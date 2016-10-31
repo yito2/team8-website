@@ -26,7 +26,7 @@
 				<tr class="trow">
 					<td class="tdescription">Yukako Ito</td>
 					<td class="tdescription">Architect</td>
-					<td class="tdescription"><p></p></td>
+					<td class="tdescription"><p>Upon setting up the repo and code base for the project, working with the team to be punctual and functional. Made decisions to utilize bootstrap.</p></td>
 					<td class="tdescription">2017</td>
 				</tr>
 				<tr class="trow">
@@ -38,7 +38,7 @@
 				<tr class="trow">
 					<td class="tdescription">Carolyn Zelicof</td>
 					<td class="tdescription">Content Master and Designer</td>
-					<td class="tdescription"><p></p></td>
+					<td class="tdescription"><p>Did research on the topic and wrote all of the HTML. Created the structure of the website through the content. </p></td>
 					<td class="tdescription">2019</td>
 				</tr>
 				<tr class="trow">
